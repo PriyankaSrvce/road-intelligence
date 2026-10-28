@@ -218,3 +218,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# project
+.venv/
+data/raw/
+data/processed/
+data/bengaluru/
+models/*.pt
+mlruns/
+runs/
+*.mp4
+mlflow.db
+mlartifacts/

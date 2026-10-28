@@ -1,0 +1,12 @@
+ultralytics>=8.3
+mlflow>=2.14
+dvc[gdrive]>=3.50
+pandas
+numpy
+opencv-python
+pyyaml
+scikit-learn
+matplotlib
+streamlit
+fastapi
+uvicorn
