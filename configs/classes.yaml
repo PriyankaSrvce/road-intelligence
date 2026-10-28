@@ -1,0 +1,6 @@
+# FROZEN CLASS IDS: do not change without telling the whole team
+classes:
+  0: {code: D00, name: longitudinal_crack}
+  1: {code: D10, name: transverse_crack}
+  2: {code: D20, name: alligator_crack}
+  3: {code: D40, name: pothole}
