@@ -1,0 +1,5 @@
+class_id,class_name,train,val,test,total
+0,longitudinal_crack,1103,223,229,1555
+1,transverse_crack,50,11,7,68
+2,alligator_crack,1428,307,286,2021
+3,pothole,2236,506,445,3187
