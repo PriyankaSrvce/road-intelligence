@@ -45,3 +45,4 @@ maintenance_records, predictions
 
 ## Changelog
 - initial version
+- 2026-10-28: Dataset source = Kaggle re-upload of RDD2022 India (aliabdelmenam/rdd-2022), 70/15/15 split. Raw class 3 (other corruption) dropped; raw 4 (pothole) mapped to frozen ID 3. Counts in docs/rdd2022_india_class_counts.csv

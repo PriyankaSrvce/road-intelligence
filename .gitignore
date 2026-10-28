@@ -222,7 +222,6 @@ __marimo__/
 # project
 .venv/
 data/raw/
-data/processed/
 data/bengaluru/
 models/*.pt
 mlruns/
@@ -230,3 +229,9 @@ runs/
 *.mp4
 mlflow.db
 mlartifacts/
+
+data/raw/
+data/processed/*
+!data/processed/*.dvc
+!data/processed/.gitignore
+data/bengaluru/
