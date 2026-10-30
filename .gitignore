@@ -223,7 +223,6 @@ __marimo__/
 .venv/
 data/raw/
 data/bengaluru/
-models/*.pt
 mlruns/
 runs/
 *.mp4
@@ -235,3 +234,10 @@ data/processed/*
 !data/processed/*.dvc
 !data/processed/.gitignore
 data/bengaluru/
+
+kaggle_upload/
+
+kaggle_code/
+
+models/pretrained/
+*.db
