@@ -1,0 +1,5 @@
+outs:
+- md5: e5289070280dd0196cf90d32c9f27fee
+  size: 22522026
+  hash: md5
+  path: yolov8s_rdd_india_baseline.pt
