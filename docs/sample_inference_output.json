@@ -1,0 +1,161 @@
+[
+  {
+    "schema_version": "1.0",
+    "image_id": "India_000007",
+    "image_width": 720,
+    "image_height": 720,
+    "model_version": "yolov8s_rdd-india_seed42_img640",
+    "conf_threshold": 0.25,
+    "inference_ms": 352.4,
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "schema_version": "1.0",
+    "image_id": "India_000019",
+    "image_width": 720,
+    "image_height": 720,
+    "model_version": "yolov8s_rdd-india_seed42_img640",
+    "conf_threshold": 0.25,
+    "inference_ms": 244.6,
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "schema_version": "1.0",
+    "image_id": "India_000022",
+    "image_width": 720,
+    "image_height": 720,
+    "model_version": "yolov8s_rdd-india_seed42_img640",
+    "conf_threshold": 0.25,
+    "inference_ms": 227.5,
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "schema_version": "1.0",
+    "image_id": "India_000038",
+    "image_width": 720,
+    "image_height": 720,
+    "model_version": "yolov8s_rdd-india_seed42_img640",
+    "conf_threshold": 0.25,
+    "inference_ms": 227.3,
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "schema_version": "1.0",
+    "image_id": "India_000046",
+    "image_width": 720,
+    "image_height": 720,
+    "model_version": "yolov8s_rdd-india_seed42_img640",
+    "conf_threshold": 0.25,
+    "inference_ms": 230.6,
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "schema_version": "1.0",
+    "image_id": "India_000053",
+    "image_width": 720,
+    "image_height": 720,
+    "model_version": "yolov8s_rdd-india_seed42_img640",
+    "conf_threshold": 0.25,
+    "inference_ms": 225.2,
+    "num_detections": 4,
+    "detections": [
+      {
+        "class_id": 2,
+        "class_code": "D20",
+        "class_name": "alligator_crack",
+        "confidence": 0.8232,
+        "x_min": 49.1,
+        "y_min": 522.9,
+        "x_max": 720.0,
+        "y_max": 714.7,
+        "area_ratio": 0.248246,
+        "model_version": "yolov8s_rdd-india_seed42_img640"
+      },
+      {
+        "class_id": 3,
+        "class_code": "D40",
+        "class_name": "pothole",
+        "confidence": 0.5428,
+        "x_min": 573.9,
+        "y_min": 600.0,
+        "x_max": 630.3,
+        "y_max": 631.9,
+        "area_ratio": 0.003464,
+        "model_version": "yolov8s_rdd-india_seed42_img640"
+      },
+      {
+        "class_id": 0,
+        "class_code": "D00",
+        "class_name": "longitudinal_crack",
+        "confidence": 0.5078,
+        "x_min": 263.9,
+        "y_min": 470.8,
+        "x_max": 379.9,
+        "y_max": 703.1,
+        "area_ratio": 0.05201,
+        "model_version": "yolov8s_rdd-india_seed42_img640"
+      },
+      {
+        "class_id": 0,
+        "class_code": "D00",
+        "class_name": "longitudinal_crack",
+        "confidence": 0.2865,
+        "x_min": 469.1,
+        "y_min": 520.1,
+        "x_max": 613.6,
+        "y_max": 707.5,
+        "area_ratio": 0.052234,
+        "model_version": "yolov8s_rdd-india_seed42_img640"
+      }
+    ]
+  },
+  {
+    "schema_version": "1.0",
+    "image_id": "India_000083",
+    "image_width": 720,
+    "image_height": 720,
+    "model_version": "yolov8s_rdd-india_seed42_img640",
+    "conf_threshold": 0.25,
+    "inference_ms": 225.7,
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "schema_version": "1.0",
+    "image_id": "India_000090",
+    "image_width": 720,
+    "image_height": 720,
+    "model_version": "yolov8s_rdd-india_seed42_img640",
+    "conf_threshold": 0.25,
+    "inference_ms": 228.5,
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "schema_version": "1.0",
+    "image_id": "India_000096",
+    "image_width": 720,
+    "image_height": 720,
+    "model_version": "yolov8s_rdd-india_seed42_img640",
+    "conf_threshold": 0.25,
+    "inference_ms": 237.8,
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "schema_version": "1.0",
+    "image_id": "India_000118",
+    "image_width": 720,
+    "image_height": 720,
+    "model_version": "yolov8s_rdd-india_seed42_img640",
+    "conf_threshold": 0.25,
+    "inference_ms": 228.0,
+    "num_detections": 0,
+    "detections": []
+  }
+]
