@@ -1,0 +1,5 @@
+outs:
+- md5: 89aba9eee1af2f373d19e94410e21ac4
+  size: 19180506
+  hash: md5
+  path: yolo11s_rdd_india.pt
