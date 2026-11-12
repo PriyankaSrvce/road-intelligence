@@ -17,7 +17,7 @@ from contextlib import contextmanager
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
-SQLITE_PATH = ROOT / "data" / "roads_demo.db"
+SQLITE_PATH = Path(os.getenv("UROAD_DB_PATH", str(ROOT / "data" / "roads_demo.db")))
 SQLITE_SCHEMA = Path(__file__).parent / "schema_sqlite.sql"
 
 # ---------------------------------------------------------------------------
