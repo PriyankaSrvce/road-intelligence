@@ -260,3 +260,5 @@ data/videos/
 *.MP4
 *.mov
 .DS_Store
+
+data/extracted_frames/
