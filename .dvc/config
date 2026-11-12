@@ -1,2 +1,5 @@
 [core]
     autostage = true
+    remote = shared
+['remote "shared"']
+    url = https://dagshub.com/PriyankaSrvce/road-intelligence.dvc
