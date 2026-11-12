@@ -254,3 +254,9 @@ data/extracted_frames/
 *.pt
 *.mp4
 .DS_Store
+
+data/videos/
+*.mp4
+*.MP4
+*.mov
+.DS_Store

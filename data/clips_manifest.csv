@@ -1,0 +1,6 @@
+clip_file,gpx_start_utc,duration_s,sync_method,sync_note
+20261015_85420AMByGPSMapCamera.mp4,2026-10-15T03:24:20Z,7.7,filename_gps_map_camera,gps_coverage=0%
+20261015_85450AMByGPSMapCamera.mp4,2026-10-15T03:24:50Z,40.2,filename_gps_map_camera,gps_coverage=100%
+20261015_85538AMByGPSMapCamera.mp4,2026-10-15T03:25:38Z,66.5,filename_gps_map_camera,gps_coverage=100%
+20261015_85712AMByGPSMapCamera.mp4,2026-10-15T03:27:12Z,372.3,filename_gps_map_camera,gps_coverage=100%
+20261015_90333AMByGPSMapCamera.mp4,2026-10-15T03:33:33Z,373.4,filename_gps_map_camera,gps_coverage=100%
