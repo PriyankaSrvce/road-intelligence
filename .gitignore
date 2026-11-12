@@ -241,3 +241,16 @@ kaggle_code/
 
 models/pretrained/
 *.db
+
+# UrbanRoadAI — project-specific
+data/sample_dataset/
+data/sample_dataset_yolo/
+data/roads_demo.db
+sample_dataset.zip
+data/raw_videos/
+data/sample_frames/
+
+data/extracted_frames/
+*.pt
+*.mp4
+.DS_Store
